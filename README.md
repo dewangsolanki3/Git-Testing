@@ -2,11 +2,11 @@
 - Output JSON : 
 ```diff
 #    [  
-#    &ensp;&ensp;{  
-#    &ensp;&ensp;&ensp;&ensp;"name":"Andy",  
-#    &ensp;&ensp;&ensp;&ensp;"age":"21",  
-#    &ensp;&ensp;&ensp;&ensp;"salary":"50,000"  
-#    &ensp;&ensp;},  
+#       {  
+#           "name":"Andy",  
+#           "age":"21",  
+#           "salary":"50,000"  
+#       },  
 #    &ensp;&ensp;{  
 #    &ensp;&ensp;&ensp;&ensp;"name":"Barbara",  
 #    &ensp;&ensp;&ensp;&ensp;"age":"25",  
@@ -20,3 +20,4 @@
 #    ]
 
 ```
+
