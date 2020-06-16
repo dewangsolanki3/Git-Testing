@@ -1,2 +1,7 @@
 # Git-Testing
-! I am testing Git
+```diff
+- hey in red
++ text in green
+! text in orange
+# text in gray
+```
