@@ -6,4 +6,3 @@
 # text in gray
 ```
 
-<span style="color:orange;">Word up</span>
