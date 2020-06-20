@@ -20,5 +20,9 @@
     ]
 
 ```
+
+###Or use it with **express** to send JSON response (Content-Type : application/json) as follows -
+
+
 ![picture](bottomBG.png)
 
